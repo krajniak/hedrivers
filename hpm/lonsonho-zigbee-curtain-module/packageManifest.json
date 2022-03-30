@@ -1,5 +1,5 @@
 {
-	"packageName": "Lonsonho ZigBee Curtain Module",
+	"packageName": "Tuya Lonsonho Zigbee Curtain Module QS-Zigbee-C01",
 	"minimumHEVersion": "2.3.1",
 	"author": "Andrzej Krajniak",
 	"version": "1.0",
@@ -11,7 +11,7 @@
 			"id": "47b95e13-51f2-4ef3-ade9-64a64b10d51b",
 			"name": "Required Driver",
 			"namespace": "krajniak",
-			"location": "https://raw.githubusercontent.com/krajniak/hedrivers/main/drivers/lonsonho-zigbee-curtain-module/lonsonho-zigbee-curtain-module.groovy",
+			"location": "https://raw.githubusercontent.com/krajniak/hedrivers/main/hpm/lonsonho-zigbee-curtain-module/lonsonho-zigbee-curtain-module.groovy",
 			"required": true
 		}
 	]

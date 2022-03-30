@@ -4,10 +4,10 @@
     "payPalUrl": "https://paypal.me/AndrzejKrajniak",
     "packages": [
       {
-        "name": "§",
+        "name": "Tuya Lonsonho Zigbee Curtain Module QS-Zigbee-C01",
         "category": "Integrations",
         "location": "https://raw.githubusercontent.com/krajniak/hedrivers/main/hpm/lonsonho-zigbee-curtain-module/packageManifest.json",
-        "description": "Lonsonho (Tuya) Zigbee Curtain Module QS-Zigbee-C01"
+        "description": "Tuya Lonsonho Zigbee Curtain Module QS-Zigbee-C01"
       }
     ]
   }
