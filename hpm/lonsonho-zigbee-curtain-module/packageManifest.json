@@ -1,0 +1,18 @@
+{
+	"packageName": "Lonsonho ZigBee Curtain Module",
+	"minimumHEVersion": "2.3.1",
+	"author": "Andrzej Krajniak",
+	"version": "1.0",
+	"dateReleased": "2022-03-30",
+	"licenseFile": "",
+	"releaseNotes": "",
+	"drivers" : [
+		{
+			"id": "47b95e13-51f2-4ef3-ade9-64a64b10d51b",
+			"name": "Required Driver",
+			"namespace": "krajniak",
+			"location": "https://raw.githubusercontent.com/krajniak/hedrivers/main/drivers/lonsonho-zigbee-curtain-module/lonsonho-zigbee-curtain-module.groovy",
+			"required": true
+		}
+	]
+}

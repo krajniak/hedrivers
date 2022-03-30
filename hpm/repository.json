@@ -1,0 +1,13 @@
+{
+    "author": "Andrzej Krajniak",
+    "gitHubUrl": "https://github.com/krajniak/",
+    "payPalUrl": "https://paypal.me/AndrzejKrajniak",
+    "packages": [
+      {
+        "name": "§",
+        "category": "Integrations",
+        "location": "https://raw.githubusercontent.com/krajniak/hedrivers/main/hpm/lonsonho-zigbee-curtain-module/packageManifest.json",
+        "description": "Lonsonho (Tuya) Zigbee Curtain Module QS-Zigbee-C01"
+      }
+    ]
+  }
